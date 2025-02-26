@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7acd9c6a-24a1-40cf-a1c3-bb4ef00b656d" name="Changes" comment="">
+    <list default="true" id="7acd9c6a-24a1-40cf-a1c3-bb4ef00b656d" name="Changes" comment="VERSION 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,37 @@
       <option name="presentableId" value="Default" />
       <updated>1740579377668</updated>
     </task>
+    <task id="LOCAL-00001" summary="VERSION 2">
+      <option name="closed" value="true" />
+      <created>1740580383868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740580383868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="VERSION 4">
+      <option name="closed" value="true" />
+      <created>1740580401514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740580401514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="VERSION 5">
+      <option name="closed" value="true" />
+      <created>1740580696715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740580696715</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VERSION 2" />
+    <MESSAGE value="VERSION 4" />
+    <MESSAGE value="VERSION 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="VERSION 5" />
   </component>
 </project>
